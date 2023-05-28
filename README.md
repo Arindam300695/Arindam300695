@@ -4,7 +4,8 @@
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img alt="coder" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<br/>
+<p></p>
+<p></p><p></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindam300695&label=Profile%20views&color=0e75b6&style=flat" alt="arindam300695" /> </p>
 
