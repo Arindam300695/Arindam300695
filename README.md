@@ -1,5 +1,4 @@
-[![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
-)]
+[![MasterHead](https://camo.githubusercontent.com/160859e9b65c27cac067d610c4cabed1e5ea256e1f25f39454f302b7c577dbb4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a4647443642557a7a5a7331564a4c75592e676966)]
 <h1 align="center">Hi 👋, I'm Arindam Chattopadhyay</h1>
 <h3 align="centre">A passionate MERN Stack developer from India</h3>
 <img alt="coder" align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
