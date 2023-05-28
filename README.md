@@ -1,6 +1,6 @@
 <img alt="banner" width="100%" src="https://camo.githubusercontent.com/160859e9b65c27cac067d610c4cabed1e5ea256e1f25f39454f302b7c577dbb4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f302a4647443642557a7a5a7331564a4c75592e676966"/>
-<h1 align="center"><img src="https://i.pinimg.com/originals/9e/50/a3/9e50a3c0caea956f2aafb16614e59d78.gif" alt="wish" width="200"/> I'm Arindam Chattopadhyay</h1>
-<h3 align="centre">A passionate MERN Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Arindam Chattopadhyay</h1>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img alt="coder" align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindam300695&label=Profile%20views&color=0e75b6&style=flat" alt="arindam300695" /> </p>
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://fb.com/arindam chattopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arindam chattopadhyay" height="30" width="40" /></a>
 <a href="https://instagram.com/arindam chattopadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arindam chattopadhyay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/noob coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noob coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/noob coder @noobcoder-iq2hv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="noob coder @noobcoder-iq2hv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
