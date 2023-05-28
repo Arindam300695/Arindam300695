@@ -1,8 +1,20 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+[![MasterHead](https://https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+)]
+<h1 align="center">Hi 👋, I'm Arindam Chattopadhyay</h1>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
+<img alt="coder" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arindam300695&label=Profile%20views&color=0e75b6&style=flat" alt="arindam300695" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindam300695" alt="arindam300695" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Arindam300695](https://github.com/Arindam300695)
+
+- 💬 Ask me about **html, css, js, react, node, express, mongodb, sql**
+
+- 📫 How to reach me **arindam.chattopadhyay300695@gmail.com**
+
+- ⚡ Fun fact **"Dreamt" is the only English word that ends in the letters "mt".**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
