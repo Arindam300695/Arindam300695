@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arindam300695" alt="arindam300695" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arindam300695](https://github.com/Arindam300695)
+- 👨‍💻 All of my projects are available at [https://github.com/Arindam300695]([https://github.com/Arindam300695](https://github.com/Arindam300695/My-Mern_Projects))
 
 - 💬 Ask me about **html, css, js, react, node, express, mongodb, sql**
 
